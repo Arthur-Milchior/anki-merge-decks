@@ -1,0 +1,2 @@
+rm merge-decks.zip
+zip merge-decks.zip ankiweb config.* *py  LICENSE *.md zipping --exclude \*~ \*zip
